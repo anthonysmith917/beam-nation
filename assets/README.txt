@@ -1,0 +1,1 @@
+Beam Nation visual assets are embedded directly in index.html to prevent broken image links on GitHub Pages.
